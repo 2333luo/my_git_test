@@ -1,0 +1,3 @@
+/home/xjw/桌面/fastq_test/kseq/build/CMakeFiles/rebuild_cache.dir
+/home/xjw/桌面/fastq_test/kseq/build/CMakeFiles/edit_cache.dir
+/home/xjw/桌面/fastq_test/kseq/build/CMakeFiles/seq.dir

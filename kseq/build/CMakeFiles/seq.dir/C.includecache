@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/xjw/桌面/fastq_test/kseq/fastq.h
+
+/home/xjw/桌面/fastq_test/kseq/kseq.h
+ctype.h
+-
+string.h
+-
+stdlib.h
+-
+
+/home/xjw/桌面/fastq_test/kseq/kseq_test.c
+zlib.h
+-
+stdio.h
+-
+fastq.h
+/home/xjw/桌面/fastq_test/kseq/fastq.h
+kseq.h
+/home/xjw/桌面/fastq_test/kseq/kseq.h
+
