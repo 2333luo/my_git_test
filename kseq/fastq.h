@@ -3,5 +3,6 @@
 
 void count_cycle_base_num(char *s);
 int a;
+int b=100;
 
 #endif 
